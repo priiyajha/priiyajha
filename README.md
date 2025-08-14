@@ -6,10 +6,10 @@
 
 <!-- Neon Styled Badges -->
 <p align="center">
-  <a href="portfolio-backend-g5ch.onrender.com/ " target="_blank">
+  <a href="https://portfolio-backend-g5ch.onrender.com/ " target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23ff4ed2?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="linkedin.com/in/priiyajhaa" target="_blank">
+  <a href="https://linkedin.com/in/priiyajhaa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23b84fff?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="jhapriiyaa2104@gmail.com">
@@ -80,3 +80,4 @@ I specialize in building <b>scalable web applications</b> and <b>AI-driven solut
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
+
