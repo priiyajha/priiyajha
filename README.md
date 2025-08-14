@@ -1,39 +1,82 @@
-# 👋 Hi, I’m Priya Jha  
+<!-- Animated Heading -->
+<h1 align="center">
+  👋 Hi, I’m Priya Jha
+</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI Automation Enthusiast | Vibe Coding + Marketing</h3>
 
-🚀 **Full-Stack Developer** | **AI & Automation Enthusiast** | **Vibe Coding + Marketing**  
-
-I specialize in building **scalable web applications** and **AI-driven solutions** with a focus on **high-performance, maintainable architectures**. My work blends **frontend precision, backend efficiency, and AI integration** to deliver impactful digital experiences.  
-
----
-
-## 🛠 Technical Expertise  
-- **Languages & Frameworks:** JavaScript, React.js, Node.js, Express.js, PostgreSQL  
-- **AI & Automation:** RAG pipelines, Agentic AI, Prompt Engineering, LLM Integrations, n8n  
-- **Backend & APIs:** REST APIs, Firebase Auth, WebSockets  
-- **Tools & DevOps:** Git, Docker, Replit, Vercel, Render, Supabase  
-- **Specialties:** Data Modeling, Performance Optimization, User-Centric Design  
-
----
-
-## 📌 Featured Projects  
-
-1️⃣ **[Trip Planner Web App]**  
-> Customizes trips based on preferences, integrates admin controls for destinations, restaurants, and accommodations, with secure Firebase authentication and a PostgreSQL backend.
-
-2️⃣ **[Farmfolio]**  
-> AI-powered crop recommendation system offering fertilizer suggestions, pest control solutions, live weather/news integration, and NLP-based local language translation.
-
-3️⃣ **[Netflix-Style Portfolio]**  
-> Interactive project showcase with dynamic cards, preview pop-ups, and media-rich project highlights.
-
-4️⃣ **[AI Interview Platform]**  
-> An intelligent interview platform that conducts automated technical and behavioral interviews using advanced AI.
+<!-- Neon Styled Badges -->
+<p align="center">
+  <a href="portfolio-backend-g5ch.onrender.com/ " target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23ff4ed2?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="linkedin.com/in/priiyajhaa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23b84fff?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="jhapriiyaa2104@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23ffffff?style=for-the-badge&logo=gmail&logoColor=%23ff4ed2" />
+  </a>
+</p>
 
 ---
 
-## 📫 Let’s Connect  
-- 🌐 [Portfolio Website](portfolio-backend-g5ch.onrender.com/ )  
-- 💼 [LinkedIn](linkedin.com/in/priiyajhaa)  
+<!-- About Section -->
+<h2 align="center" style="color:#ff4ed2;">💡 About Me</h2>
+<p align="center">
+I specialize in building <b>scalable web applications</b> and <b>AI-driven solutions</b> with a focus on high-performance, maintainable architectures. My work blends frontend precision, backend efficiency, and AI integration to deliver impactful digital experiences.
+</p>
 
 ---
-💡 *Always exploring the intersection of tech, creativity, and user experience.*
+
+<!-- Tech Stack -->
+
+<h2 align="center">
+  🚀 Tech Stack
+</h2>
+
+<!-- Languages & Frameworks -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FF61F6?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-DA22FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-FF6FD8?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-FF4FD8?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FF61F6?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<!-- AI & Automation -->
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF61F6?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-DA22FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6FD8?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Integrations-FF4FD8?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF61F6?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+<!-- Backend & APIs -->
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-DA22FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FF6FD8?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-FF4FD8?style=for-the-badge&logo=websocket&logoColor=white" />
+</p>
+
+<!-- Tools & DevOps -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-FF61F6?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-DA22FF?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-FF6FD8?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-FF4FD8?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-FF61F6?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-DA22FF?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-%23FF61A6?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-%23B14FFF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-%23E238EC?style=for-the-badge&logo=heart&logoColor=white" />
+  
+</p>
+
+
+---
+
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
