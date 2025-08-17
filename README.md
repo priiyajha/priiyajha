@@ -33,43 +33,51 @@ I specialize in building <b>scalable web applications</b> and <b>AI-driven solut
   🚀 Tech Stack
 </h2>
 
+<!-- ===== Professional Tech Stack Badges ===== -->
+
 <!-- Languages & Frameworks -->
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FF61F6?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-DA22FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-FF6FD8?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-FF4FD8?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-FF61F6?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=flat&logo=react&logoColor=white" />
 </p>
 
 <!-- AI & Automation -->
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF61F6?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-DA22FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6FD8?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Integrations-FF4FD8?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF61F6?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/LLM%20Integrations-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/Gradio-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/n8n-0F172A?style=flat&logo=n8n&logoColor=white" />
 </p>
 
-<!-- Backend & APIs -->
+<!-- Backend, Auth & Data -->
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-DA22FF?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase%20Auth-FF6FD8?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-FF4FD8?style=for-the-badge&logo=websocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-0F172A?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/WebSockets-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-0F172A?style=flat&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/Convex-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-0F172A?style=flat&logo=supabase&logoColor=white" />
 </p>
 
-<!-- Tools & DevOps -->
+<!-- DevTools & Infra -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-FF61F6?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-DA22FF?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-FF4FD8?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-FF61F6?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-DA22FF?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-%23FF61A6?style=for-the-badge&logo=replit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-%23B14FFF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lovable-%23E238EC?style=for-the-badge&logo=heart&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Git-0F172A?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-0F172A?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-0F172A?style=flat&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-0F172A?style=flat&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-0F172A?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
+
+
 
 
 ---
@@ -79,5 +87,6 @@ I specialize in building <b>scalable web applications</b> and <b>AI-driven solut
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
+
 
 
