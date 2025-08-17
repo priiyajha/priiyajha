@@ -62,7 +62,6 @@ I specialize in building <b>scalable web applications</b> and <b>AI-driven solut
 <p align="center">
   <img src="https://img.shields.io/badge/Git-FF61F6?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-DA22FF?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-FF6FD8?style=for-the-badge&logo=replit&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-FF4FD8?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-FF61F6?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-DA22FF?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -80,4 +79,5 @@ I specialize in building <b>scalable web applications</b> and <b>AI-driven solut
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
+
 
