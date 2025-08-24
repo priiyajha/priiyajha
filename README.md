@@ -6,7 +6,7 @@
 
 <!-- Neon Styled Badges -->
 <p align="center">
-  <a href="https://portfolio-backend-g5ch.onrender.com/" target="_blank">
+  <a href="https://myportfolio-opnj.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/priiyajhaa" target="_blank">
@@ -79,16 +79,4 @@ I specialize in building <b>scalable web applications</b> and <b>AI-driven solut
 </p>
 
 
-
-
 ---
-
-
-<!-- Footer Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-
-
-
