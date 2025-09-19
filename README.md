@@ -2,7 +2,12 @@
 <h1 align="center">
   👋 Hi, I’m Priya Jha
 </h1>
-<h3 align="center">🚀 Full-Stack Developer | AI Automation Enthusiast | Vibe Coding + Marketing</h3>
+<!-- <h3 align="center">🚀 Full-Stack Developer | AI Automation Enthusiast | Vibe Coding + Marketing</h3> -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Full-Stack+Developer+%7C+Gen+AI;%E2%9A%99%EF%B8%8F+Building+Scalable+Web+Apps+%26+AI-Driven+Solutions;%F0%9F%A4%96+AI+Automation+Enthusiast;%F0%9F%9A%80+Vibe+Coding+%2B+Marketing" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Neon Styled Badges -->
 <p align="center">
@@ -80,3 +85,4 @@ I specialize in building <b>scalable web applications</b> and <b>AI-driven solut
 
 
 ---
+
