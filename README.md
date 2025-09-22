@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="git_img.jpeg" alt="Priya AI Banner" width="100%">
+</p>
 <!-- Animated Heading -->
 <h1 align="center">
   👋 Hi, I’m Priya Jha
@@ -79,5 +82,6 @@ I specialize in building <b>scalable web applications</b> and <b>AI-driven solut
 
 
 ---
+
 
 
