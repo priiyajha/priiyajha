@@ -2,12 +2,9 @@
 <h1 align="center">
   👋 Hi, I’m Priya Jha
 </h1>
-<!-- <h3 align="center">🚀 Full-Stack Developer | AI Automation Enthusiast | Vibe Coding + Marketing</h3> -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Full-Stack+Developer+%7C+Gen+AI;%E2%9A%99%EF%B8%8F+Building+Scalable+Web+Apps+%26+AI-Driven+Solutions;%F0%9F%A4%96+AI+Automation+Enthusiast;%F0%9F%9A%80+Vibe+Coding+%2B+Marketing" alt="Typing SVG" />
-  </a>
-</p>
+
+<h3 align="center">🚀 Full-Stack  |  🤖 Gen AI  |  ⚙️ AI Automation </h3>
+
 
 <!-- Neon Styled Badges -->
 <p align="center">
@@ -64,8 +61,6 @@ I specialize in building <b>scalable web applications</b> and <b>AI-driven solut
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-0F172A?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=flat" />
-  <img src="https://img.shields.io/badge/WebSockets-0F172A?style=flat" />
   <img src="https://img.shields.io/badge/Firebase%20Auth-0F172A?style=flat&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-0F172A?style=flat" />
   <img src="https://img.shields.io/badge/Convex-0F172A?style=flat" />
@@ -80,9 +75,9 @@ I specialize in building <b>scalable web applications</b> and <b>AI-driven solut
   <img src="https://img.shields.io/badge/Vercel-0F172A?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-0F172A?style=flat&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Replit-0F172A?style=flat&logo=replit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-0F172A?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
 
 ---
+
 
